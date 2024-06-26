@@ -5,7 +5,7 @@ use Firefly\FilamentBlog\Http\Controllers\CommentController;
 use Firefly\FilamentBlog\Http\Controllers\PostController;
 use Firefly\FilamentBlog\Http\Controllers\TagController;
 use Illuminate\Support\Facades\Route;
-
+/*
 Route::middleware(config('filamentblog.route.middleware'))
     ->prefix(config('filamentblog.route.prefix'))
     ->group(function () {
@@ -27,3 +27,4 @@ Route::middleware(config('filamentblog.route.middleware'))
         })->name('filamentblog.post.login');
 
     });
+*/
